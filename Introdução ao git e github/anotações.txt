@@ -1,0 +1,6 @@
+ETAPAS CUNCLUIDAS DO CURSO
+
+Curso introdução à programação e pensamento computacoinal;
+Curso introdução ao git e ao github;
+Curso introdução a criação de websites com HTML5;
+Curso introdução ao javascript.
